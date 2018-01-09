@@ -1,0 +1,10 @@
+p{
+    color: brown;
+    align-content: flex-start;
+    text-justify: distribute-all-lines;
+    text-align: justify;
+    line-break: normal;
+}
+h2{
+    text-align: justify;
+}
