@@ -10,6 +10,7 @@ export class SecondComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    
   }
 
 }
